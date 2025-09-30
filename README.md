@@ -4,6 +4,7 @@ Aplicación del servidor de un sistema de administración remota de computadoras
 # INSTRUCCIONES DE USO REMOTESHELL:
 
 Colocar el paquete RemoteShellClient en un entorno Windows
+(https://github.com/CamiloLVZ/RemoteShellClient)
 
 Colocar el paquete RemoteShellServer en un entorno Unix
 
